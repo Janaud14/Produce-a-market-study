@@ -1,11 +1,13 @@
-# Projet n°5 / Parcours Data Analyst - OpenClassrooms
+# Projet n°5 / Parcours Data Analyst - OpenClassrooms w/ENSAE-ENSAI
 ## Produisez une étude de marché
+(Entreprise d'agroalimentaire souhaitant se développer à l'international, spécialisée dans le poulet)
+![image](https://user-images.githubusercontent.com/125965437/222149876-e803212f-e664-41f6-b34c-389a449b2641.png)
 
 ### Préambule
 Pour ce projet, les données ont été manipulées en Python sur support Jupyter Notebook. Opérations de clustering hiérarchique et K-Means, ACP et visualisation des clusters Pays sur le(s) plan(s) factoriel(s), cercle des corrélations.
 
 ### Les données
-Data source FAO
+Data source [FAO](http://www.fao.org/faostat/fr/#data)
 
 ### Compétences évaluées
 Construire et lire un dendogramme
@@ -17,7 +19,8 @@ Si vous n'avez jamais installé Python, alors autant installer directement la di
 
 De cette manière on peut installer Python et ses librairies de Data Science Pandas, Matplotlib, Seaborn, Scipy, Numpy etc… Mais aussi le notebook Jupyter, qui reste incontournable et vivement recommandé! C'est par ici : Anaconda
 
-Si vous souhaitez lancer le projet, il sera nécessaire d'installer Jupyter Notebook sur votre mahcine. La doc. Jupyter est accessible via : Jupyter Documentation
+Si vous souhaitez lancer le projet, il sera nécessaire d'installer Jupyter Notebook sur votre machine.
+Jupyter est accessible via : [Jupyter Documentation](https://docs.jupyter.org/en/latest/)
 
 python -m pip install --upgrade pip    
 python -m pip install jupyter
