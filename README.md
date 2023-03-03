@@ -13,9 +13,8 @@ Data source [FAO](http://www.fao.org/faostat/fr/#data)
 Aider à cibler plus particulièrement certains pays où exporter, dans le but d'approfondir ensuite l'étude de marché. Plus particulièrement, l'idéal serait de produire des "groupes" de pays, plus ou moins gros, dont on connaît les caractéristiques.
 
 ### Compétences évaluées
-Construire et lire un dendogramme
-Tester l’adéquation à une loi par un test statistique
-Interpréter une Analyse en Composantes Principales (ACP)
+Rédiger un rapport d'analyse statistique
+Communiquer ses résultats à l’aide de visualisations
 
 ### Prérequis techniques
 Si vous n'avez jamais installé Python, alors autant installer directement la distribution Anaconda. Anaconda est donc une distribution Python, faite pour la Data Science.
